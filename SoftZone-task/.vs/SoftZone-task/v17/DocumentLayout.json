@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\SoftZone\\Restaurant-Ecommerce\\SoftZone-task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C96827B-720E-4E99-96FB-974EEE530C33}|SoftZone-task\\SoftZone-task.csproj|c:\\users\\magic\\onedrive\\desktop\\softzone\\restaurant-ecommerce\\softzone-task\\softzone-task\\dtos\\order\\ordercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C96827B-720E-4E99-96FB-974EEE530C33}|SoftZone-task\\SoftZone-task.csproj|solutionrelative:softzone-task\\dtos\\order\\ordercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C96827B-720E-4E99-96FB-974EEE530C33}|SoftZone-task\\SoftZone-task.csproj|C:\\Users\\MAGIC\\OneDrive\\Desktop\\SoftZone\\Restaurant-Ecommerce\\SoftZone-task\\softzone-task\\dtos\\order\\orderchildreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C96827B-720E-4E99-96FB-974EEE530C33}|SoftZone-task\\SoftZone-task.csproj|solutionrelative:softzone-task\\dtos\\order\\orderchildreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C96827B-720E-4E99-96FB-974EEE530C33}|SoftZone-task\\SoftZone-task.csproj|C:\\Users\\MAGIC\\OneDrive\\Desktop\\SoftZone\\Restaurant-Ecommerce\\SoftZone-task\\softzone-task\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C96827B-720E-4E99-96FB-974EEE530C33}|SoftZone-task\\SoftZone-task.csproj|solutionrelative:softzone-task\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C96827B-720E-4E99-96FB-974EEE530C33}|SoftZone-task\\SoftZone-task.csproj|C:\\Users\\MAGIC\\OneDrive\\Desktop\\SoftZone\\Restaurant-Ecommerce\\SoftZone-task\\softzone-task\\repositories\\orderrepository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C96827B-720E-4E99-96FB-974EEE530C33}|SoftZone-task\\SoftZone-task.csproj|solutionrelative:softzone-task\\repositories\\orderrepository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C96827B-720E-4E99-96FB-974EEE530C33}|SoftZone-task\\SoftZone-task.csproj|C:\\Users\\MAGIC\\OneDrive\\Desktop\\SoftZone\\Restaurant-Ecommerce\\SoftZone-task\\softzone-task\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C96827B-720E-4E99-96FB-974EEE530C33}|SoftZone-task\\SoftZone-task.csproj|solutionrelative:softzone-task\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C96827B-720E-4E99-96FB-974EEE530C33}|SoftZone-task\\SoftZone-task.csproj|C:\\Users\\MAGIC\\OneDrive\\Desktop\\SoftZone\\Restaurant-Ecommerce\\SoftZone-task\\softzone-task\\dtos\\restaurant\\restaurantreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C96827B-720E-4E99-96FB-974EEE530C33}|SoftZone-task\\SoftZone-task.csproj|solutionrelative:softzone-task\\dtos\\restaurant\\restaurantreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C96827B-720E-4E99-96FB-974EEE530C33}|SoftZone-task\\SoftZone-task.csproj|C:\\Users\\MAGIC\\OneDrive\\Desktop\\SoftZone\\Restaurant-Ecommerce\\SoftZone-task\\softzone-task\\dtos\\order\\orderreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C96827B-720E-4E99-96FB-974EEE530C33}|SoftZone-task\\SoftZone-task.csproj|solutionrelative:softzone-task\\dtos\\order\\orderreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C96827B-720E-4E99-96FB-974EEE530C33}|SoftZone-task\\SoftZone-task.csproj|C:\\Users\\MAGIC\\OneDrive\\Desktop\\SoftZone\\Restaurant-Ecommerce\\SoftZone-task\\softzone-task\\mapper\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C96827B-720E-4E99-96FB-974EEE530C33}|SoftZone-task\\SoftZone-task.csproj|solutionrelative:softzone-task\\mapper\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C96827B-720E-4E99-96FB-974EEE530C33}|SoftZone-task\\SoftZone-task.csproj|C:\\Users\\MAGIC\\OneDrive\\Desktop\\SoftZone\\Restaurant-Ecommerce\\SoftZone-task\\softzone-task\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C96827B-720E-4E99-96FB-974EEE530C33}|SoftZone-task\\SoftZone-task.csproj|solutionrelative:softzone-task\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C96827B-720E-4E99-96FB-974EEE530C33}|SoftZone-task\\SoftZone-task.csproj|C:\\Users\\MAGIC\\OneDrive\\Desktop\\SoftZone\\Restaurant-Ecommerce\\SoftZone-task\\softzone-task\\dtos\\menu\\menuchlidreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C96827B-720E-4E99-96FB-974EEE530C33}|SoftZone-task\\SoftZone-task.csproj|solutionrelative:softzone-task\\dtos\\menu\\menuchlidreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C96827B-720E-4E99-96FB-974EEE530C33}|SoftZone-task\\SoftZone-task.csproj|C:\\Users\\MAGIC\\OneDrive\\Desktop\\SoftZone\\Restaurant-Ecommerce\\SoftZone-task\\softzone-task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C96827B-720E-4E99-96FB-974EEE530C33}|SoftZone-task\\SoftZone-task.csproj|solutionrelative:softzone-task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C96827B-720E-4E99-96FB-974EEE530C33}|SoftZone-task\\SoftZone-task.csproj|C:\\Users\\MAGIC\\OneDrive\\Desktop\\SoftZone\\Restaurant-Ecommerce\\SoftZone-task\\softzone-task\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C96827B-720E-4E99-96FB-974EEE530C33}|SoftZone-task\\SoftZone-task.csproj|solutionrelative:softzone-task\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\SoftZone\\Restaurant-Ecommerce\\SoftZone-task\\SoftZone-task\\Repositories\\OrderRepository\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "SoftZone-task\\Repositories\\OrderRepository\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\SoftZone\\Restaurant-Ecommerce\\SoftZone-task\\SoftZone-task\\Repositories\\OrderRepository\\OrderRepository.cs",
+              "RelativeToolTip": "SoftZone-task\\Repositories\\OrderRepository\\OrderRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwBIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T14:25:37.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderChildReadDTO.cs",
+              "DocumentMoniker": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\SoftZone\\Restaurant-Ecommerce\\SoftZone-task\\SoftZone-task\\DTOS\\Order\\OrderChildReadDTO.cs",
+              "RelativeDocumentMoniker": "SoftZone-task\\DTOS\\Order\\OrderChildReadDTO.cs",
+              "ToolTip": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\SoftZone\\Restaurant-Ecommerce\\SoftZone-task\\SoftZone-task\\DTOS\\Order\\OrderChildReadDTO.cs",
+              "RelativeToolTip": "SoftZone-task\\DTOS\\Order\\OrderChildReadDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T14:20:36.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\SoftZone\\Restaurant-Ecommerce\\SoftZone-task\\SoftZone-task\\DTOS\\Order\\OrderCreateDTO.cs",
+              "RelativeDocumentMoniker": "SoftZone-task\\DTOS\\Order\\OrderCreateDTO.cs",
+              "ToolTip": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\SoftZone\\Restaurant-Ecommerce\\SoftZone-task\\SoftZone-task\\DTOS\\Order\\OrderCreateDTO.cs",
+              "RelativeToolTip": "SoftZone-task\\DTOS\\Order\\OrderCreateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T13:35:03.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\SoftZone\\Restaurant-Ecommerce\\SoftZone-task\\SoftZone-task\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "SoftZone-task\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\SoftZone\\Restaurant-Ecommerce\\SoftZone-task\\SoftZone-task\\Models\\Order.cs",
+              "RelativeToolTip": "SoftZone-task\\Models\\Order.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T13:15:28.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderReadDTO.cs",
+              "DocumentMoniker": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\SoftZone\\Restaurant-Ecommerce\\SoftZone-task\\SoftZone-task\\DTOS\\Order\\OrderReadDTO.cs",
+              "RelativeDocumentMoniker": "SoftZone-task\\DTOS\\Order\\OrderReadDTO.cs",
+              "ToolTip": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\SoftZone\\Restaurant-Ecommerce\\SoftZone-task\\SoftZone-task\\DTOS\\Order\\OrderReadDTO.cs",
+              "RelativeToolTip": "SoftZone-task\\DTOS\\Order\\OrderReadDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T13:15:25.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RestaurantReadDto.cs",
+              "DocumentMoniker": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\SoftZone\\Restaurant-Ecommerce\\SoftZone-task\\SoftZone-task\\DTOS\\Restaurant\\RestaurantReadDto.cs",
+              "RelativeDocumentMoniker": "SoftZone-task\\DTOS\\Restaurant\\RestaurantReadDto.cs",
+              "ToolTip": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\SoftZone\\Restaurant-Ecommerce\\SoftZone-task\\SoftZone-task\\DTOS\\Restaurant\\RestaurantReadDto.cs",
+              "RelativeToolTip": "SoftZone-task\\DTOS\\Restaurant\\RestaurantReadDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T13:16:28.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MappingConfig.cs",
+              "DocumentMoniker": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\SoftZone\\Restaurant-Ecommerce\\SoftZone-task\\SoftZone-task\\Mapper\\MappingConfig.cs",
+              "RelativeDocumentMoniker": "SoftZone-task\\Mapper\\MappingConfig.cs",
+              "ToolTip": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\SoftZone\\Restaurant-Ecommerce\\SoftZone-task\\SoftZone-task\\Mapper\\MappingConfig.cs",
+              "RelativeToolTip": "SoftZone-task\\Mapper\\MappingConfig.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBcAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T16:26:35.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\SoftZone\\Restaurant-Ecommerce\\SoftZone-task\\SoftZone-task\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "SoftZone-task\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\SoftZone\\Restaurant-Ecommerce\\SoftZone-task\\SoftZone-task\\Models\\Item.cs",
+              "RelativeToolTip": "SoftZone-task\\Models\\Item.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T13:39:45.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\SoftZone\\Restaurant-Ecommerce\\SoftZone-task\\SoftZone-task\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "SoftZone-task\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\SoftZone\\Restaurant-Ecommerce\\SoftZone-task\\SoftZone-task\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "SoftZone-task\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAC0AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T13:09:23.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MenuChlidReadDto.cs",
+              "DocumentMoniker": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\SoftZone\\Restaurant-Ecommerce\\SoftZone-task\\SoftZone-task\\DTOS\\Menu\\MenuChlidReadDto.cs",
+              "RelativeDocumentMoniker": "SoftZone-task\\DTOS\\Menu\\MenuChlidReadDto.cs",
+              "ToolTip": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\SoftZone\\Restaurant-Ecommerce\\SoftZone-task\\SoftZone-task\\DTOS\\Menu\\MenuChlidReadDto.cs",
+              "RelativeToolTip": "SoftZone-task\\DTOS\\Menu\\MenuChlidReadDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T14:29:31.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\SoftZone\\Restaurant-Ecommerce\\SoftZone-task\\SoftZone-task\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "SoftZone-task\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\SoftZone\\Restaurant-Ecommerce\\SoftZone-task\\SoftZone-task\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "SoftZone-task\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAQwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T17:42:13.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\SoftZone\\Restaurant-Ecommerce\\SoftZone-task\\SoftZone-task\\Program.cs",
+              "RelativeDocumentMoniker": "SoftZone-task\\Program.cs",
+              "ToolTip": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\SoftZone\\Restaurant-Ecommerce\\SoftZone-task\\SoftZone-task\\Program.cs",
+              "RelativeToolTip": "SoftZone-task\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAQwBoAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T14:26:51.309Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

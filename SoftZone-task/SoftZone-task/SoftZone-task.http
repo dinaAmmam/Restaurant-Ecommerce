@@ -1,0 +1,6 @@
+@SoftZone_task_HostAddress = http://localhost:5287
+
+GET {{SoftZone_task_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
