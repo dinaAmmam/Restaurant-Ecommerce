@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SoftZone-task.props" />
+</Project>
