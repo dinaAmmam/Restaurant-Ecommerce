@@ -1,0 +1,16 @@
+
+.flex {
+  display: flex;
+}
+
+.flex-row {
+  flex-direction: row;
+}
+
+.restaurant-container {
+  border: 1px solid black;
+  margin: 5px;
+  width: 33.33%;
+  box-sizing: border-box;
+}
+

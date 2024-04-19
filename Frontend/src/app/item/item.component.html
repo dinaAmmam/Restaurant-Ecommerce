@@ -1,0 +1,15 @@
+  <div *ngIf="items && items.length > 0" class="flex flex-row">
+    <div *ngFor="let item of items" class="restaurant-container">
+      <div class="restaurant w-100">
+        <img [src]="item.image" [alt]="item.title" class="w-75">
+        <div>
+          <h4>{{ item.title }}</h4>
+          <p>{{ item.description }}</p>
+          <p>Price: ${{ item.price }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div *ngIf="!items || items.length === 0">
+    <p>No items found.</p>
+  </div>
