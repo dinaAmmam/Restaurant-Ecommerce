@@ -18,6 +18,14 @@ namespace SoftZone_task.Repositories.RestaurantRepository;
         return _context.Restaurants.Include(a => a.Items).ToList();
     }
 
+    public Restaurant GetRestaurantById(int id)
+    {
+        return _context.Restaurants
+                       .Include(p => p.Items)
+                       .FirstOrDefault(p => p.RestaurantId == id);
+    }
+
+
 
 }
 

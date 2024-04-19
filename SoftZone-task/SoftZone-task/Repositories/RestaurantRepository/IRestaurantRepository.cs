@@ -6,5 +6,8 @@ namespace SoftZone_task.Repositories.RestaurantRepository
     public interface IRestaurantRepository:IGenericRepository<Restaurant>
     {
         public List<Restaurant> GetAllRestaurants();
+
+        public Restaurant GetRestaurantById(int id);
+
     }
 }

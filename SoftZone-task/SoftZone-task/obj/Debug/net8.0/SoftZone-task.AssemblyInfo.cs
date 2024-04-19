@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SoftZone-task")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2afc8ba1c9299cf1e5019b51e19bb482bbbf7b1")]
 [assembly: System.Reflection.AssemblyProductAttribute("SoftZone-task")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SoftZone-task")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

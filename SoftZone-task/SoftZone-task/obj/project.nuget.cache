@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MQavf4P+9c9HMwSsRZ3pee/FHaacRsU85KzKcMocH5/oEvM9NExtEgeAGzePUOQYQOA/mUI7TUjBJY1ejiQh/w==",
+  "dgSpecHash": "UeSjqDQC11p9SGSFDkiYlVSpvMVMiqlOkLk8JKjNZR6cKtnsObcF2j1AbXJRgTf5rHBQV9XbCJFESeOpPKNnmQ==",
   "success": true,
-  "projectFilePath": "E:\\SoftZone-task\\SoftZone-task\\SoftZone-task\\SoftZone-task.csproj",
+  "projectFilePath": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\SoftZone\\Restaurant-Ecommerce\\SoftZone-task\\SoftZone-task\\SoftZone-task.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MAGIC\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\MAGIC\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

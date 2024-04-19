@@ -1,7 +1,9 @@
 ﻿using AutoMapper;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using SoftZone_task.DTOS.Customer;
 using SoftZone_task.DTOS.Restaurant;
+using SoftZone_task.Models;
 using SoftZone_task.Repositories.RestaurantRepository;
 
 namespace SoftZone_task.Controllers
@@ -29,6 +31,17 @@ namespace SoftZone_task.Controllers
                 restaurants.Add(r);
             }
             return Ok(restaurants);
+        }
+
+        [HttpGet("{id}")]
+        public ActionResult<RestaurantReadDto> GetById(int id)
+        {
+            Restaurant restaurant = restaurantRepo.GetRestaurantById(id);
+            if (restaurant == null)
+            {
+                return NotFound();
+            }
+            return Ok(mapper.Map<RestaurantReadDto>(restaurant));
         }
     }
 }

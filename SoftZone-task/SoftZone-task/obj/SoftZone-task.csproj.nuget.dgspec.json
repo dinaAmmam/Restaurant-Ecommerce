@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\SoftZone-task\\SoftZone-task\\SoftZone-task\\SoftZone-task.csproj": {}
+    "C:\\Users\\MAGIC\\OneDrive\\Desktop\\SoftZone\\Restaurant-Ecommerce\\SoftZone-task\\SoftZone-task\\SoftZone-task.csproj": {}
   },
   "projects": {
-    "E:\\SoftZone-task\\SoftZone-task\\SoftZone-task\\SoftZone-task.csproj": {
+    "C:\\Users\\MAGIC\\OneDrive\\Desktop\\SoftZone\\Restaurant-Ecommerce\\SoftZone-task\\SoftZone-task\\SoftZone-task.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SoftZone-task\\SoftZone-task\\SoftZone-task\\SoftZone-task.csproj",
+        "projectUniqueName": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\SoftZone\\Restaurant-Ecommerce\\SoftZone-task\\SoftZone-task\\SoftZone-task.csproj",
         "projectName": "SoftZone-task",
-        "projectPath": "E:\\SoftZone-task\\SoftZone-task\\SoftZone-task\\SoftZone-task.csproj",
+        "projectPath": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\SoftZone\\Restaurant-Ecommerce\\SoftZone-task\\SoftZone-task\\SoftZone-task.csproj",
         "packagesPath": "C:\\Users\\MAGIC\\.nuget\\packages\\",
-        "outputPath": "E:\\SoftZone-task\\SoftZone-task\\SoftZone-task\\obj\\",
+        "outputPath": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\SoftZone\\Restaurant-Ecommerce\\SoftZone-task\\SoftZone-task\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

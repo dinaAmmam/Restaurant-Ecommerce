@@ -21,6 +21,8 @@ namespace SoftZone_task.Mapper
             CreateMap<Order,OrderCreateDTO>().ReverseMap();
             CreateMap<Customer, CustomerCreateDTO>().ReverseMap();
             CreateMap<Item , ItemsChlidCreateDto>().ReverseMap();
+            CreateMap<Item , ItemReadDto>().ReverseMap();
+            CreateMap<Restaurant,RestaurantChlidReadDto>().ReverseMap();
             
         }
         private SoftZoneDBContext dbContext;

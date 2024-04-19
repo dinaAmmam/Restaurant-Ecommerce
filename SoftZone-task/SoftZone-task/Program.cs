@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using SoftZone_task.Data;
 using SoftZone_task.Mapper;
 using SoftZone_task.Repositories.CustomerRepository;
+using SoftZone_task.Repositories.ItemRepository;
 using SoftZone_task.Repositories.OrderRepository;
 using SoftZone_task.Repositories.RestaurantRepository;
 
@@ -23,6 +24,7 @@ namespace SoftZone_task
             builder.Services.AddScoped<IRestaurantRepository, RestaurantRepository>();
             builder.Services.AddScoped<ICustomerRepository, CustomerRepository>();
             builder.Services.AddScoped<IOrderRepository, OrderRepository>();
+            builder.Services.AddScoped<IItemRepository, ItemRepository>();  
 
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
